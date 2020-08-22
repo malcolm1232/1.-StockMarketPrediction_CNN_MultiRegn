@@ -36,6 +36,7 @@ from pandas import set_option
 pd.set_option('display.width', 1000)
 pd.set_option('display.max_columns', 1000)
 
+# Change all the 'C:/Users/malco' to your user name
 # Image Path
 stock_img_path = 'C:/Users/malco/Desktop/Image/Fixed Window Period Image/Combined Data Nasdaq 1min 2020 apr ALL GREEN/Window = ALL'
 #  CSV Path
